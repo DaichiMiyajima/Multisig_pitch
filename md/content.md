@@ -21,7 +21,7 @@
 
 無事全て換金したようで・・・
 
-![](./img/thankyou.png)
+![](https://yusukeshimizu.github.io/img/thankyou.png)
 
 >>>
 
@@ -37,7 +37,7 @@
 
 >>>
 
-![](./img/BTCDistribution.png)
+![](https://yusukeshimizu.github.io/img/BTCDistribution.png)
 
 >>>
 
@@ -51,7 +51,7 @@
 
 >>>
 
-![](./img/multisig.png)
+![](https://yusukeshimizu.github.io/img/multisig.png)
 
 >>>
 
@@ -60,7 +60,7 @@
 
 >>>
 
-![](./img/UTXO.png)
+![](https://yusukeshimizu.github.io/img/UTXO.png)
 
 BTCには、残高情報って実はありません。  
 あるのは未使用支払情報（UTXO）だけです。
@@ -70,7 +70,7 @@ BTCには、残高情報って実はありません。
 自分向けの支払いをかき集めて  
 unlockして支払います
 
-![](./img/script.png)
+![](https://yusukeshimizu.github.io/img/script.png)
 
 >>>
 
@@ -122,7 +122,7 @@ unlockして支払います
 > 公開鍵を匿名にするのである。ある額を誰かが誰かに送金したことは全参加者に知られるが、他に情報がなければ、どういった人物が取引に関わったかは見抜かれない。  
 > -- Satoshi Nakamoto
 
-![](./img/privacy)
+![](https://yusukeshimizu.github.io/img/privacy)
 
 >>>
 
