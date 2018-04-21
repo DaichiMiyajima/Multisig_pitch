@@ -70,7 +70,7 @@ BTCには、残高情報って実はありません。
 自分向けの支払いをかき集めて  
 unlockして支払います
 
-![](https://yusukeshimizu.github.io/Multisig_pitch/img/script.png)
+![](https://yusukeshimizu.github.io/Multisig_pitch/img/script.PNG)
 
 >>>
 
