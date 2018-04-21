@@ -21,7 +21,7 @@
 
 無事全て換金したようで・・・
 
-![](https://yusukeshimizu.github.io/img/thankyou.png)
+![](https://yusukeshimizu.github.io/Multisig_pitch/img/thankyou.png)
 
 >>>
 
@@ -37,7 +37,7 @@
 
 >>>
 
-![](https://yusukeshimizu.github.io/img/BTCDistribution.png)
+![](https://yusukeshimizu.github.io/Multisig_pitch/img/BTCDistribution.png)
 
 >>>
 
@@ -51,7 +51,7 @@
 
 >>>
 
-![](https://yusukeshimizu.github.io/img/multisig.png)
+![](https://yusukeshimizu.github.io/Multisig_pitch/img/multisig.png)
 
 >>>
 
@@ -60,7 +60,7 @@
 
 >>>
 
-![](https://yusukeshimizu.github.io/img/UTXO.png)
+![](https://yusukeshimizu.github.io/Multisig_pitch/img/UTXO.png)
 
 BTCには、残高情報って実はありません。  
 あるのは未使用支払情報（UTXO）だけです。
@@ -70,7 +70,7 @@ BTCには、残高情報って実はありません。
 自分向けの支払いをかき集めて  
 unlockして支払います
 
-![](https://yusukeshimizu.github.io/img/script.png)
+![](https://yusukeshimizu.github.io/Multisig_pitch/img/script.png)
 
 >>>
 
