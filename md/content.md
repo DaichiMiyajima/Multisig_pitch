@@ -21,7 +21,7 @@
 
 無事全て換金したようで・・・
 
-![](./img/thankyou.PNG)
+![](./img/thankyou.png)
 
 >>>
 
@@ -37,7 +37,7 @@
 
 >>>
 
-![](./img/BTCDistribution.PNG)
+![](./img/BTCDistribution.png)
 
 >>>
 
